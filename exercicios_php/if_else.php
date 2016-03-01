@@ -1,4 +1,8 @@
 <?php
+
+	
+	// exemplo básico de if e else
+	
 	$numero1 = 30;
 	$numero2 = 40;
 
