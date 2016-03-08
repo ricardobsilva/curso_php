@@ -1,1 +1,2 @@
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
+http://www.dcc.fc.up.pt/~ltorgo/Ensino/madsad/bdp/ex2.html
