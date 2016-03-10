@@ -2,7 +2,5 @@
 include '../model/Aluno.php';
 
 $aluno = new Aluno();
-
-$aluno->nome = 'Joao';
-
-echo $aluno->nome;
+$aluno->setNome('Joao');
+$aluno->frequencia($aluno->getNome(), null,null);
