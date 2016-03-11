@@ -1,7 +1,7 @@
 <?php
 
-
-class Aluno {
+include 'Pessoa.php';
+class Aluno extends Pessoa{
    private $nome; 
    private $turma;
    private $matricula;
