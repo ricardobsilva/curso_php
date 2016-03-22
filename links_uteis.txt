@@ -1,2 +1,13 @@
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
 http://www.dcc.fc.up.pt/~ltorgo/Ensino/madsad/bdp/ex2.html
+
+Frameworks para se estudar
+
+Symfony
+CodeIgniter
+CakePHP
+Yii
+laravel
+
+
+https://dev.twitter.com/rest/reference/get/friends/list
